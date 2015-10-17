@@ -1,3 +1,8 @@
 shaima
 hello from shaima
+<<<<<<< HEAD
 hate you
+=======
+hhhhhhhh
+>>>>>>> parent of d9025db... other modification
+hhhh
